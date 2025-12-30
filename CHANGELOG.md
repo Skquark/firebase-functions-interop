@@ -1,3 +1,9 @@
+## 2.0.0
+
+- Update to use firebase_admin_interop `2.0.0`
+- Null safety support (Dart SDK >=2.12.0)
+- Updated node_interop to 2.0.0
+
 ## 1.0.3
 
 - Updated dependency on `firebase_admin_interop` to `2.1.0` which includes messaging feature
